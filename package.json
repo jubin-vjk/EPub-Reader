@@ -1,0 +1,12 @@
+{
+  "name": "epub-reader",
+  "version": "1.0.0",
+  "description": "A starter Electron app for an EPUB reader.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^42.2.0"
+  }
+}
